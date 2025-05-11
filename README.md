@@ -1,7 +1,9 @@
 # Weather API
 
 A simple Node.js application that provides weather data for a given city. The application uses the Visual Crossing Weather API to fetch weather data and Redis for caching.
+
 This project is designed to demonstrate how to build a RESTful API with Node.js, Express, and Redis.
+
 Sample solution for the <a href="https://roadmap.sh/projects/weather-api-wrapper-service" target="_blank">weather-api</a> challenge from <a href="https://roadmap.sh" target="_blank">roadmap.sh</a>.
 
 ## Features
